@@ -1,0 +1,11 @@
+O que eu fiz desde a útilma daily?
+ 
+Implementação do fluxo para geração de post para o feed do instagram
+Implementação do fluxo para geração de imagem para e-mail
+Correções em melhorias implementadas para o adichat -> possibilidade de selecionar mercados no audit, correção do erro do envio da mensagem de indisponibilidade, correção de erro de indisponibilidade do bot em alguns cenários
+ 
+O que farei até a próxima?
+Sequencia na correção dos erros na melhorias implementadas -> audit, trocar imagem por lista de produto, audit, médicos com mais prescrições, médicos hypertarget, flag mcq, audit médicos com menor e maior penetração no período.
+ 
+Impedimentos:
+OpenAi sem fundos impossibilitando o teste de geração de imagem.
