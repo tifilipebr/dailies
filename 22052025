@@ -1,0 +1,27 @@
+Daily 22 de maio de 2025
+
+
+
+O que eu fiz desde a última daily
+
+
+
+Finalização e deploy da correção dos erros na melhorias implementadas -> audit -médicos com mais prescrições, médicos hypertarget, flag mcq, audit médicos com menor e maior penetração no período.
+
+Integração com o modelo dalle-3 para geração de imagem de e-mail
+
+Testes para o fluxo de geração de e-mail e imagem no super agente
+
+
+
+O que vou fazer até a próxima
+
+
+
+Implantação do LLM de geração de imagem no hugging face
+
+Integração com LLM implantado no hugging face
+
+
+
+Sem impedimentos
